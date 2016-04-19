@@ -25,7 +25,6 @@ The Wit module provides a Wit class with the following methods:
 * `message` - the Wit [message](https://wit.ai/docs/http/20160330#get-intent-via-text-link) API
 * `converse` - the low-level Wit [converse](https://wit.ai/docs/http/20160330#converse-link) API
 * `runActions` - a higher-level method to the Wit converse API
-* `interactive` - starts an interactive conversation with your bot
 
 ### Wit class
 
