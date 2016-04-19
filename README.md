@@ -1,7 +1,7 @@
 Wit
 =========================
 
-*hculap:meteor-wit
+*hculap:meteor-wit*
 
 [Wit.ai](https://wit.ai) is natural language for developers service, which allows you to create your own Bot Engine. See the [docs](https://wit.ai/docs) for more information.
 
