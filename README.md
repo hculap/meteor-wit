@@ -5,8 +5,7 @@ Wit
 
 [Wit.ai](https://wit.ai) is natural language for developers service, which allows you to create your own Bot Engine. See the [docs](https://wit.ai/docs) for more information.
 
-This package is wrapper for npm node-wit Node.js SDK. Package has been adapted for meteor, npm deps has been removed,
-request package has beend replaced by meteor HTTP package and old ES5 code has beed migrated to ES6.
+This package is wrapper for npm node-wit Node.js SDK. This package has been adapted for meteor, npm dependencies have been removed, request package has been replaced by meteor HTTP package, and old ES5 code has beed migrated to ES6.
 
 ## Installation
 
